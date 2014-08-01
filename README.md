@@ -15,3 +15,8 @@ Basic screen savers. Bootstrapped by https://github.com/sdbondi/go-glfw3-play/bl
 
 * 8bit-fire - an 8 bit version of a fire. 
 * fire - The ultimate goal. A realistic looking fire
+
+### TODO ###
+
+* Figure out how to segment the screen into squares
+* Figure out how to draw a random colour into each square
