@@ -9,8 +9,8 @@ Basic screen savers. Bootstrapped by https://github.com/sdbondi/go-glfw3-play/bl
 
 ### Docs ###
 
-http://godoc.org/github.com/go-gl/glfw3
-http://godoc.org/github.com/go-gl/gl
+* http://godoc.org/github.com/go-gl/glfw3
+* http://godoc.org/github.com/go-gl/gl
 
 ### How do I get set up? ###
 
@@ -23,6 +23,6 @@ http://godoc.org/github.com/go-gl/gl
 * hello - a hello world
 * square - like hello but try a square instead of a triangle
 
-* 8bit-fire - an 8 bit version of a fire. 
+* 8bit-fire - an 8 bit version of a fire.
 * fire - The ultimate goal. A realistic looking fire
 
