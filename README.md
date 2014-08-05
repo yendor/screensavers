@@ -11,6 +11,7 @@ Basic screen savers. Bootstrapped by https://github.com/sdbondi/go-glfw3-play/bl
 
 * http://godoc.org/github.com/go-gl/glfw3
 * http://godoc.org/github.com/go-gl/gl
+* http://en.wikipedia.org/wiki/Cartesian_coordinate_system
 
 ### How do I get set up? ###
 
