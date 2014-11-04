@@ -16,6 +16,7 @@ Basic screen savers. Bootstrapped by https://github.com/sdbondi/go-glfw3-play/bl
 * http://godoc.org/github.com/go-gl/gl
 * http://en.wikipedia.org/wiki/Cartesian_coordinate_system
 * https://www.youtube.com/watch?v=NSI4KKjYS_w
+* Fragment shaders - https://www.opengl.org/wiki/Fragment_Shader
 
 ### Algorithm ###
 
